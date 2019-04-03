@@ -1,3 +1,5 @@
+//Timer for duration of game
+
 public class hippoTimer 
 {
 	long start = 0, delay = 0;

@@ -1,3 +1,4 @@
+//class
 public class Ball 
 {
 	private int Xpos, Ypos, deltaX, deltaY;
